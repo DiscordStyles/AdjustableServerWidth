@@ -2,7 +2,7 @@
 Makes the server list smaller or larger. Customizable in the file.
 
 - - -
-BetterDiscord Download: [https://betterdiscord.net/ghdl?id=3359](https://betterdiscord.net/ghdl?id=3359)  
+BetterDiscord Download: [https://betterdiscord.net/ghdl?id=3364](https://betterdiscord.net/ghdl?id=3364)  
 Powercord Install: `git clone https://github.com/DiscordStyles/AdjustableServerWidth`
 - - -
 
