@@ -1,0 +1,16 @@
+/**
+ * @name Adjustable Server Width
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Makes the server list smaller or larger. Customizable in the file.
+ * @source https://github.com/Gibbu/BetterDiscord-Themes/tree/master/AdjustableServerWidth
+ * @website https://gibbu.me/
+*/
+
+@import url("https://discordstyles.github.io/AdjustableServerWidth/base.css");
+
+:root {
+  --server-icon-size: 35px; /* Size of the server icons | DEFAULT: 35px */
+  --server-icon-spacing: 8px; /* Spacing between server icons. Negative values are allowed | DEFAULT: 8px */
+  --server-container-padding: 10px; /* Spacing to the left and right sides of server icons | DEFAULT: 10px */
+}
