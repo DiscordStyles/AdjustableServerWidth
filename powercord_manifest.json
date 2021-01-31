@@ -1,9 +1,0 @@
-{
-    "name": "Adjustable Server Width",
-    "description": "Makes the server list smaller or larger. Customizable in the file.",
-    "version": "1.0.0",
-    "author": "Gibbu#1211",
-    "theme": "AdjustableServerWidth.theme.css",
-    "consent": "false",
-    "license": "unknown"
-}

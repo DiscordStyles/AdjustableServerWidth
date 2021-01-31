@@ -1,9 +1,3 @@
-## Adjustable Server Width
-Makes the server list smaller or larger. Customizable in the file.
-
-- - -
-BetterDiscord Download: [https://betterdiscord.net/ghdl?id=3364](https://betterdiscord.net/ghdl?id=3364)  
-Powercord Install: `git clone https://github.com/DiscordStyles/AdjustableServerWidth`
-- - -
-
-![AdjustableServerWidth](https://i.imgur.com/2KuvHaV.jpg)
+## This will no longer be updated.
+If you wish to get something similar, I suggest checking out [ServerColumns by DevilBro](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/ServerColumns).  
+It pretty much does what this theme does but a lot better. Simply just set `--columns` to `1` and ASW.
