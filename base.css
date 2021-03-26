@@ -187,9 +187,6 @@
   transform: translateX(-50%);
   width: var(--server-icon-size);
 }
-.guilds-1SWlCJ .wrapper-3Njo_c [style*=height] {
-  height: auto !important;
-}
 
 .colorMuted-HdFt4q.size12-3cLvbJ:first-child:after {
   content: var(--asw-version);
