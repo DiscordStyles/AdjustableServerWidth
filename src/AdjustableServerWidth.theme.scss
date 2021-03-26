@@ -7,7 +7,7 @@
  * @website https://gibbu.me/
 */
 :root {
-  --server-icon-size: 45px;  /* Size of the server icons | DEFAULT: 35px */
+  --server-icon-size: 35px;  /* Size of the server icons | DEFAULT: 35px */
   --server-icon-spacing: 8px;  /* Spacing between server icons. Negative values are allowed | DEFAULT: 8px */
   --server-container-padding: 10px;  /* Spacing between left and right sides of server icons | DEFAULT: 10px */
 }
@@ -41,7 +41,7 @@
     width: var(--container);
     margin-bottom: var(--server-icon-spacing);
   }
-  .scroller-2TZvBN > div[style]:not(.listItem-GuPuDH):not([style*="absolute"]) {
+  .scrollerBase-289Jih > div[style]:not(.listItem-GuPuDH):not([style*="absolute"]) {
     height: calc(var(--icon) + var(--server-icon-spacing)) !important;
   }
   [class*="pill"] {
