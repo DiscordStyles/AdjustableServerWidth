@@ -17,11 +17,7 @@
 :root {
   --icon: var(--server-icon-size, var(--ASW_size, 35px));
   --container: calc(var(--icon) + calc(var(--server-container-padding) * 2));
-  --asw-version: 'Adjustable Server Width 2.0.3';
-}
-// Base
-.base-3dtUhz {
-  left: var(--container);
+  --asw-version: '2.0.4';
 }
 
 // Guilds
@@ -101,6 +97,6 @@
   }
 }
 .colorMuted-HdFt4q.size12-3cLvbJ:first-child:after {
-  content: var(--asw-version);
+  content: "Adjustable Server Width " var(--asw-version);
   display: block;
 }
